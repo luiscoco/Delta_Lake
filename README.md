@@ -1,2 +1,6 @@
-# Delta_Lake
-Delta Lake
+# Delta Lake
+
+https://delta.io/
+
+https://delta.io/learn/getting-started
+
